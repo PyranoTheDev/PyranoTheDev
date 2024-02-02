@@ -24,6 +24,8 @@ I am a Game Programming student at the Academy of Interactive Entertainment in S
 ![Caramelizedbanner](https://github.com/PyranoTheDev/PyranoTheDev/assets/73611583/f8b14caa-c17c-47cc-a1e5-f64fd1925f1a)
 - Worked with a team of artists, designers and programmers to create a fun endless runner experience.
 - Worked on the game's tile generator, the obstacles and the pickups.
+- Used Perforce for Version Control.
+- Worked on 2-week sprints.
 
 
 
