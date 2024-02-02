@@ -28,7 +28,10 @@ I am a Game Programming student at the Academy of Interactive Entertainment in S
 - Worked on 2-week sprints.
 
 
+### Activities
 
+- Participated in Global Game Jam and in class game jams.
+- Modded custom songs into Metal Hellsinger.
 
 <!--
 **PyranoTheDev/PyranoTheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
