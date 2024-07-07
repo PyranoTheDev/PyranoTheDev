@@ -32,7 +32,7 @@ I am a Game Programming student at the Academy of Interactive Entertainment in S
 
 - Participated in Global Game Jam and in class game jams.
 - Modding custom songs into Metal Hellsinger.
-- Make Doom maps in GZDoom using Ultimate Doom Builder and Slade
+- Make Doom maps in GZDoom using Ultimate Doom Builder and Slade.
 
 <!--
 **PyranoTheDev/PyranoTheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
