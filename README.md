@@ -10,6 +10,16 @@ I am a Game Programming student at the Academy of Interactive Entertainment in S
  
 ### Portfolio
 
+#### **Lead Programmer and AI Programmer** on NachtMesser
+![NachtBanner](![nachtmesser](https://github.com/PyranoTheDev/PyranoTheDev/assets/73611583/aa153cd5-f1ad-4436-90d6-8546f3db5ab1))
+- A stealth first person shooter game I built with a team of designers and artists.
+- Utilized my AISenses library to save time implementing the AI.
+- Implemented enemy AI that utilizes a Finite State Machine and has a lot of customizability for the designers.
+- Implemented an AI director to handle enemy shooting behaviors.
+- Discusssed the project's needs with the Lead Designer and Art Director.
+- Conducted code reviews with the programming team to ensure the code meets the project requirements.
+- Proposed solutions during troubling times in development to boost team morale.
+- Worked on 2-week sprints for five months of development.
 #### **Solo Dev** on AISenses library
 ![ConeBanner](https://github.com/PyranoTheDev/PyranoTheDev/assets/73611583/98953ee6-7fd9-47c2-b32e-47e9728506de)
 - A reusable library for Unity with vision cones and hearing systems.
@@ -33,6 +43,7 @@ I am a Game Programming student at the Academy of Interactive Entertainment in S
 - Participated in Global Game Jam and in class game jams.
 - Modding custom songs into Metal Hellsinger.
 - Make Doom maps in GZDoom using Ultimate Doom Builder and Slade.
+- Joined the Student Leadership Team in class.
 
 <!--
 **PyranoTheDev/PyranoTheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
