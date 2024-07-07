@@ -11,7 +11,7 @@ I am a Game Programming student at the Academy of Interactive Entertainment in S
 ### Portfolio
 
 #### **Lead Programmer and AI Programmer** on NachtMesser
-![NachtBanner](![nachtmesser](https://github.com/PyranoTheDev/PyranoTheDev/assets/73611583/aa153cd5-f1ad-4436-90d6-8546f3db5ab1))
+![NachtBanner](![nachtmesser](https://github.com/PyranoTheDev/PyranoTheDev/assets/73611583/aa153cd5-f1ad-4436-90d6-8546f3db5ab1)
 - A stealth first person shooter game I built with a team of designers and artists.
 - Utilized my AISenses library to save time implementing the AI.
 - Implemented enemy AI that utilizes a Finite State Machine and has a lot of customizability for the designers.
