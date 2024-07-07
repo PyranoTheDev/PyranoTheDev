@@ -5,7 +5,7 @@ I am a Game Programming student at the Academy of Interactive Entertainment in S
 - Pronouns: He/Him
 - 📫 How to reach out to me:
   - Email: samclemons04@gmail.com
-- 💬 Talk to me about Game Dev, D&D and Horror.
+- 💬 Talk to me about Game Dev, TTRPGs, First Person Shooters and Horror.
 - 🎮 Favorite Games: Doom Eternal, Team Fortress 2, Baldur's Gate 3, Alien Isolation, Trepang2 and Deep Rock Galactic.
  
 ### Portfolio
