@@ -12,7 +12,7 @@ I am a Game Programming student at the Academy of Interactive Entertainment in S
 
 #### **Lead Programmer and AI Programmer** on [NachtMesser](https://aieseattle.itch.io/squid)
 ![NachtBanner](https://github.com/PyranoTheDev/PyranoTheDev/assets/73611583/b82f9124-fa7f-45bf-91c7-e6946600232c)
-- A stealth first person shooter game I built with a team of designers and artists.
+- Stealth first person shooter game I built with a team of designers and artists.
 - Utilized my AISenses library to save time implementing the AI.
 - Implemented enemy AI that utilizes a Finite State Machine and has a lot of customizability for the designers.
 - Implemented an AI director to handle enemy shooting behaviors.
@@ -22,7 +22,7 @@ I am a Game Programming student at the Academy of Interactive Entertainment in S
 - Worked on 2-week sprints for five months of development.
 #### **Solo Dev** on AISenses library
 ![ConeBanner](https://github.com/PyranoTheDev/PyranoTheDev/assets/73611583/98953ee6-7fd9-47c2-b32e-47e9728506de)
-- A reusable library for Unity with vision cones and hearing systems.
+- Reusable library for Unity with vision cones and hearing systems.
 - Worked on a vision cone system that supports using multiple vision cones on one AI agent and uses Unity Events to communicate with AI behaviors.
 - Implemented a basic hearing system that also uses Unity Events to communicate with AI behaviors.
 - Added a Sound Relay Channel to broadcasts sounds to multiple AI behaviors of your choosing.
@@ -32,9 +32,9 @@ I am a Game Programming student at the Academy of Interactive Entertainment in S
 - Worked on a flight controller, projectiles, and shootable enemies.
 #### **Gameplay Programmer** on [Caramelized Carnage](https://aieseattle.itch.io/western-robots-associated)
 ![Caramelizedbanner](https://github.com/PyranoTheDev/PyranoTheDev/assets/73611583/f8b14caa-c17c-47cc-a1e5-f64fd1925f1a)
-- Worked with a team of artists, designers and programmers to create a fun endless runner experience.
-- Worked on the game's tile generator, the obstacles and the pickups.
-- Used Perforce for Version Control.
+- Worked alongside a team of artists, designers and programmers to create a fun endless runner experience.
+- Developed game's tile generator, the obstacles and the pickups.
+- Perforce for Version Control.
 - Worked on 2-week sprints.
 
 
