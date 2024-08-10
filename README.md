@@ -1,6 +1,6 @@
 ### Hey there!
 
-I am a Game Programming student at the Academy of Interactive Entertainment in Seattle, Washington.
+I am a Gameplay/AI programmer who recently graduated from the Academy of Interactive Entertainment.
 
 - Pronouns: He/Him
 - 📫 How to reach out to me:
