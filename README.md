@@ -1,6 +1,6 @@
 ### Hey there!
 
-I am a Gameplay/AI programmer who recently graduated from the Academy of Interactive Entertainment.
+I am a Gameplay/AI programmer and Software Engineer who recently graduated from the Academy of Interactive Entertainment.
 
 - Pronouns: He/Him
 - 📫 How to reach out to me:
