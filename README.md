@@ -6,7 +6,7 @@ I am a Gameplay/AI programmer and Software Engineer who recently graduated from 
 - 📫 How to reach out to me:
   - Email: samclemons04@gmail.com
 - 💬 Talk to me about Game Dev, TTRPGs, First Person Shooters and Horror.
-- 🎮 Favorite Games: Doom Eternal, Team Fortress 2, Baldur's Gate 3, Alien Isolation, Trepang2 and Deep Rock Galactic.
+- 🎮 Favorite Games: Doom Eternal, Team Fortress 2, Baldur's Gate 3, Alien Isolation, Trepang2, Total War Warhammer 3 and Deep Rock Galactic.
  
 ### Portfolio
 
@@ -40,10 +40,10 @@ I am a Gameplay/AI programmer and Software Engineer who recently graduated from 
 
 ### Activities
 
-- Participated in Global Game Jam and in class game jams.
-- Modding custom songs into Metal Hellsinger.
-- Make Doom maps in GZDoom using Ultimate Doom Builder and Slade.
-- Joined the Student Leadership Team in class.
+- Participated in Global Game Jam.
+- Modded custom songs into Metal Hellsinger.
+- Made Doom maps in GZDoom using Ultimate Doom Builder and Slade.
+- Joined the Student Leadership Team during my time at the Academy of Interactive Entertainment.
 
 <!--
 **PyranoTheDev/PyranoTheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
