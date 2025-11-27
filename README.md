@@ -4,9 +4,10 @@ I am a Gameplay/AI programmer and Software Engineer who recently graduated from 
 
 - Pronouns: He/Him
 - 📫 How to reach out to me:
-  - Email: samclemons04@gmail.com
-- 💬 Talk to me about Game Dev, TTRPGs, First Person Shooters and Horror.
-- 🎮 Favorite Games: Doom Eternal, Team Fortress 2, Baldur's Gate 3, Alien Isolation, Trepang2, Total War Warhammer 3 and Deep Rock Galactic.
+  - Email: samclemons04@protonmail.com
+- 💬 Talk to me about Game Dev, TTRPGs, Warhammer, and Horror.
+- ♥️ Favorite Games: Doom Eternal, Team Fortress 2, Baldur's Gate 3, Alien Isolation, Hitman 3, Total War Warhammer 3 and Deep Rock Galactic.
+- 🎮 Currently Playing: Hitman 3, Total War Warhammer 3
  
 ### Portfolio
 
